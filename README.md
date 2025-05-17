@@ -4,6 +4,6 @@
    
 3. Open two terminals:
 
-Terminal 1: node worker.js
-
-Terminal 2: node producer.js
+      Terminal 1: node worker.js
+      
+      Terminal 2: node producer.js
