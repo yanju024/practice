@@ -1,7 +1,7 @@
 1. Implemented a Message Que for Send OTP to mobile phone
 
 Project Structure
-.
+
 ├── producer.js     # Produces and sends messages to the queue
 ├── worker.js       # Consumes and processes messages from the queue
 ├── package.json    # Project dependencies and scripts
